@@ -21,7 +21,7 @@ public class ExamRegistration {
         double examMark;
         int subjects;
 
-        System.out.println(" EXAM REGISTRATION SYSTEM ");
+        System.out.println("======= EXAM REGISTRATION SYSTEM======= ");
         System.out.println();
 
         try {
